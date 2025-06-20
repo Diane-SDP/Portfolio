@@ -45,7 +45,7 @@ export const hero: Field = {
     {
       name: 'name',
       type: 'text',
-      label: 'Nom',
+      label: 'PROUT PROUT',
       admin: {
         placeholder: 'Ex: Nom',
       },
@@ -53,7 +53,7 @@ export const hero: Field = {
     {
       name: 'surname',
       type: 'text',
-      label: 'Prénom',
+      label: 'PROUT PROUTv',
       admin: {
         placeholder: 'Ex: Prénom',
       },
@@ -61,7 +61,7 @@ export const hero: Field = {
     {
       name: 'title',
       type: 'text',
-      label: 'Titre ou spécialité',
+      label: 'PROUT PROUT',
       admin: {
         placeholder: 'Ex: Développeur web',
       },
