@@ -31,6 +31,7 @@ export const PastelHero: React.FC<any> = (props) => {
     >
       <div className="max-w-2xl w-full text-center">
         <h1 className="text-4xl md:text-5xl font-extrabold mb-2">
+          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH
           {name} <span className="font-light">{surname}</span>
         </h1>
         <h2 className="text-xl md:text-2xl font-medium mb-4 text-blue-500">

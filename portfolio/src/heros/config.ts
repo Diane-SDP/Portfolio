@@ -45,7 +45,7 @@ export const hero: Field = {
     {
       name: 'name',
       type: 'text',
-      label: 'KAKOU',
+      label: 'Nom',
       admin: {
         placeholder: 'Ex: Nom',
       },
@@ -53,7 +53,7 @@ export const hero: Field = {
     {
       name: 'surname',
       type: 'text',
-      label: 'KAKOU',
+      label: 'Prénom',
       admin: {
         placeholder: 'Ex: Prénom',
       },
@@ -61,7 +61,7 @@ export const hero: Field = {
     {
       name: 'title',
       type: 'text',
-      label: 'KAKOU',
+      label: 'Metier',
       admin: {
         placeholder: 'Ex: Développeur web',
       },
